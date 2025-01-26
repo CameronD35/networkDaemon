@@ -14,4 +14,4 @@ To build the daemon, you can use the makefile OR you can use your own C compiler
 * If you find time to review the code, please free to make suggestions
 
 ### PLEASE NOTE:
-This daemon is intended to run on LINUX only. It has only been testedon Ubuntu 22.04 and I cannot guarantee it will work on other distributions.
+This daemon is intended to run on LINUX only. It has only been tested on Ubuntu 22.04 and I cannot guarantee it will work on other distributions.
