@@ -3,7 +3,7 @@
 This daemon:
 - Checks if the specified IP and Port are open
 - Connects to the IP and Port and if successful, creates a fork program
-- The fork program runs a python script until the connection is disrupted (The python script is not provided, but it will be added in a later push!)
+- The fork program runs a Python script until the connection is disrupted. The python script IS provided, but the path will be different and the script is specific to our Jetson Orin Nano setup. To point to a new path you must change the path string at or around line 197 and direct it to your desired location.
 
 ---
 
